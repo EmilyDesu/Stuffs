@@ -7,7 +7,7 @@ package vistas;
 
 /**
  *
- * @author clrubilarc
+ * @author EmilyDesu
  */
 public class Biblio_fast_T60P9 {
 
