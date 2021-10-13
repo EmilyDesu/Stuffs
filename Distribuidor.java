@@ -16,7 +16,7 @@ import modelo.Conectar;
 
 /**
  *
- * @author clrubilarc
+ * @author EmilyDesu
  */
 public class Distribuidor extends javax.swing.JFrame {
     //Declaro variables de implementación
