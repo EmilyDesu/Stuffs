@@ -16,7 +16,7 @@ import java.util.Date;
 
 /**
  *
- * @author clrubilarc
+ * @author EmilyDesu
  */
 public class Compra extends javax.swing.JFrame {
     
